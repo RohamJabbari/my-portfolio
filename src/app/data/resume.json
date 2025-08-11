@@ -1,0 +1,95 @@
+{
+  "filename": "roham_jabbari_resume.pdf",
+  "personalInfo": {
+    "name": "Roham Jabbari",
+    "email": "roham.jabbari1997@gmail.com",
+    "github": "https://github.com/RohamJabbari/"
+  },
+  "workExperience": [
+    {
+      "title": "IT Support & Automation Developer",
+      "company": "Gladiator Logistik GmbH",
+      "years": "2023 - Present",
+      "description": "Part-time IT Support responsible for end-to-end technical solutions, including invoicing automation, development of a comprehensive work dashboard, and creation of a workhour management system for employees. Implemented data analysis pipelines, introduced and configured Google Workspace for company-wide adoption, and developed a centralized database to streamline employee management. Improved operational efficiency by automating processes and reducing manual tasks. Managed communication with accounting and coordinated with contracted developers for ongoing projects."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "University of Vienna",
+      "years": "2022 - Present (expected graduation Dec 2025)",
+      "noteworthyProjects": [
+        {
+          "title": "Cognitive Load and Emotions in the Context of Data Visualizations",
+          "description": "Led a user research study using eyetracking, Galvanic Skin Response (GSR), and facial recognition to evaluate the impact of visualization complexity on cognitive and emotional load. Conducted quantitative and qualitative data analysis, revealing that higher complexity and clutter significantly increased user load."
+        },
+        {
+          "title": "High Stress Training Dashboard",
+          "description": "Developed an interactive dashboard using the Svelte framework for high-stress training scenarios (e.g., police training). Designed UX flows and integrated feedback loops. Conducted user testing with trainers and trainees, resulting in strong approval ratings and adoption recommendations."
+        }
+      ]
+    },
+    {
+      "degree": "Bachelor of Science in Computer Engineering",
+      "institution": "Arak University",
+      "years": "2016 - 2021",
+      "noteworthyProjects": [
+        {
+          "title": "Bachelor Thesis: Anomaly Detection on Brain Tumors",
+          "description": "Developed a system for detecting anomalies in brain tumor images to aid in malignant cancer detection. Collected images from multiple hospitals, categorized them, and trained models for improved diagnostic accuracy."
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "User and Invoice Management Dashboard",
+      "description": "Developed a full-featured dashboard for user management and invoicing at Gladiator Logistik GmbH, integrating automated workflows such as invoice generation from CSV files and contract lifecycle management. Built with [React.js, Node.js, PostgreSQL], changing invoicing from manual to automatic."
+    },
+    {
+      "title": "Backend Templates",
+      "description": "Designed and implemented reusable backend service templates, including identity management, invoice processing, API gateway, document storage, Eureka server, RabbitMQ messaging, WebSocket communication, real-time chat, push notifications, and chatbot integration. Reduced development setup time for future projects by 40%."
+    }
+  ],
+  "hardSkills": [
+    "JavaScript",
+    "TypeScript",
+    "React.js",
+    "Vue.js",
+    "Java 21",
+    "Maven",
+    "Docker",
+    "Github repository management",
+    "Continuous Integration and Continuous Deployment (CI/CD) pipelines",
+    "JWT (JSON Web Token) authentication",
+    "Google OAuth 2.0 (Open Authorization) integration",
+    "Frontend caching strategies and optimization",
+    "Google Cloud – Cloud Run",
+    "Google Cloud – Virtual Machine (VM) configuration",
+    "Google Cloud – Cloud Build",
+    "Google Cloud – Cloud SQL and NoSQL databases",
+    "Google Cloud – IAM (Identity and Access Management)",
+    "Google Cloud – Secret Manager",
+    "Google Cloud – Firebase",
+    "Google Cloud – OAuth Gmail integration",
+    "SMTP (Simple Mail Transfer Protocol) via Ionos",
+    "Ionos Cloud – Domain Management",
+    "PostgreSQL database management",
+    "Redis database management",
+    "Google Workspace – User Management",
+    "Google Workspace – Drive Management"
+  ],
+  "softSkills": [
+    "Proven track record of delivering successful university group projects with high collaboration and quality outcomes",
+    "Experience thriving in 2–3 person agile work teams, contributing across multiple project phases",
+    "Skilled in office and team operations management, including Google Workspace administration and Trello workflow optimization",
+    "Demonstrated leadership in managing and guiding small technical teams toward project goals",
+    "Highly organized with strong time management and problem-solving skills for complex software challenges",
+    "Excellent interpersonal and communication skills, with a calm, professional demeanor under pressure"
+  ],
+  "languages": [
+    "Persian (native)",
+    "English (fluent for work)",
+    "German (A2)"
+  ]
+}
